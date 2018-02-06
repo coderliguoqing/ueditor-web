@@ -37,6 +37,9 @@
       getUEContent: function(){
        return this.editor.getContent();
       },
+      getContentTxt: function(){
+        return this.editor.getContentTxt();
+      }
     }
   }
 </script>
