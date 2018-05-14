@@ -4,12 +4,11 @@
         <button size="primary" type="info" icon="plus" @click="getContent">获取内容</button>
         <UEditor :config=config ref="ueditor"></UEditor>
       </div>
-
   </div>
 </template>
 
 <script>
-  import {UEditor} from '@/components/ueditor/index.js'
+  import UEditor from '@/components/ueditor/ueditor.vue'
 
   export default{
       name: 'hello',

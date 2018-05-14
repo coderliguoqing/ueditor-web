@@ -5,9 +5,9 @@
 </template>
 
 <script>
-  import '../../../../static/ueditor/ueditor.config.js'
-  import '../../../../static/ueditor/ueditor.all.js'
-  import '../../../../static/ueditor/lang/zh-cn/zh-cn.js'
+  import '../../../static/ueditor/ueditor.config.js'
+  import '../../../static/ueditor/ueditor.all.js'
+  import '../../../static/ueditor/lang/zh-cn/zh-cn.js'
 
   export default {
     name: "UEditor",
