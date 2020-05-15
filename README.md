@@ -1,6 +1,6 @@
 # y
 
-> ueditor web project
+> ueditor web project, 如果你是vue-cli3的脚手架，请参考以下项目：https://github.com/coderliguoqing/ueditor-vue-cli3-demo
 
 ## Build Setup
 
